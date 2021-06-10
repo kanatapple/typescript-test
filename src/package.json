@@ -10,6 +10,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "normalize-url": "1.6.1"
+    "normalize-url": "4.5.1"
   }
 }
